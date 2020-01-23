@@ -1,4 +1,4 @@
-# Git Basics Lab
+git push -u origin masterget# Git Basics Lab
 
 ## Learning Goals
 
@@ -47,6 +47,17 @@ this lab
   1) has a folder named my-repository
   2) has a valid git repository initialized for the my-repository folder
   3) has a README.md file in the my-repository folder
+Path
+git-basics-lab-nyc-web-012720/
+
+
+Cancel
+Create New
+
+
+README.md
+
+Full Screen
 
 the local repository
   4) has README.md as a tracked file
@@ -107,8 +118,7 @@ As we saw above, there are **six** broken tests. Let's get them working.
 
 3. While inside `my-repository`, using the command line, initialize a new git
    repository. You'll know you've done it if you see 'Initialized empty Git
-   repository in _<...your local directory>/my-repository/.git/'>_. Change _back-up_
-   to the parent directory and you should be back in the top-level directory. Run
+   repository in _<...your local directory>/my-repository/.git/'>_. . Run
    `learn` and you should be down to **four tests** left. If that's true, change
    _back_ into `my-repository`.
 
